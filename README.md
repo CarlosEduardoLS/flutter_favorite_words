@@ -1,4 +1,4 @@
-# flutter_codelabs
+# flutter_favorite_words
 
 A new Flutter project.
 
